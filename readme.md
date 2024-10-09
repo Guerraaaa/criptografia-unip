@@ -11,4 +11,4 @@ estrutura básica:
         screen.mainloop()
     main_screen()
 
-Usei a parte escrita para fazer os calculos/formulas. Utilizei o chatGpt para mostrar um caminho sem ter que usar função para ver se é numero ou não, utilizando função estava demorando MUITO para rodar o código.
+Usei a parte escrita para fazer os calculos/formulas. Utilizei o chatGpt para mostrar um caminho sem ter que usar função para ver se é numero primo ou não, utilizando função estava demorando MUITO para rodar o código.
