@@ -8,7 +8,7 @@
 - Tem como criptografar, uma chave criptografada 
 
 
-#Importes
+# Importes
 
 Tkinter -> Criar a GUI
 Math e Sympy -> Ajudar nas operações/equações matematicas
