@@ -11,3 +11,4 @@ estrutura básica:
         screen.mainloop()
         
     main_screen()
+
