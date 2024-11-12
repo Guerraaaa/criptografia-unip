@@ -1,5 +1,5 @@
 # Oque é esse trabalho? 
-  Este trabalho foi realizado para a materia APS, Atividades Práticas Supervisionadasidade, na faculdade UNIP (Universidade Paulista), realizada por alunos do segundo semestre de Ciências da Computação. O Objetivo é demonstrar o funcionamento da criptografia RSA. 
+  Este trabalho foi realizado para a materia APS, Atividades Práticas Supervisionadasidade, na faculdade UNIP (Universidade Paulista). O Objetivo é demonstrar o funcionamento da criptografia RSA. 
   
 *Em Anexo deixo video de três minutos demonstrando o funcionamento do sistema: https://jam.dev/c/bededc9e-d603-4b71-b661-6fc7fcd4e3c2*
 
