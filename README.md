@@ -1,3 +1,9 @@
+# Oque é esse trabalho? 
+  Este trabalho foi realizado para a materia APS, Atividades Práticas Supervisionadasidade, na faculdade UNIP (Universidade Paulista), realizada por alunos do segundo semestre de Ciências da Computação. O Objetivo é demonstrar o funcionamento da criptografia RSA. 
+  
+** Em Anexo deixo video de três minutos demonstrando o funcionamento do sistema: https://jam.dev/c/bededc9e-d603-4b71-b661-6fc7fcd4e3c2
+
+
 # Bibliotecas utilizadas
 
 tkinter: Biblioteca padrão do Python para criar interfaces gráficas (GUI).
@@ -15,7 +21,8 @@ datetime: Biblioteca para trabalhar com datas e horários.
 
 # Funções
 
-modular_inverse(e, phi_n): Esta função calcula o inverso modular de e módulo phi_n. O inverso modular é um número d tal que (e * d) % phi_n == 1. É um componente chave da criptografia RSA.
+modular_inverse(e, phi_n): Esta função calcula o inverso modular de e módulo phi_n. O inverso modular é um número d tal que (e * d) % phi_n == 1. 
+É um componente chave da criptografia RSA.
 
 extended_gcd(a, b): Função auxiliar usada para calcular o inverso modular usando o algoritmo euclidiano estendido.
 
@@ -42,6 +49,7 @@ decriptoMensagem(mensagem, d, n): Função que realiza a descriptografia da mens
 Erro(text_err): Exibe uma janela de erro com a mensagem de erro especificada.
 
 # Interface Gráfica (GUI)
+
 A interface gráfica do programa consiste em:
 
 Caixa de texto para inserir a mensagem a ser criptografada.
